@@ -37,16 +37,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HarmonicNumber">
+  <component name="RunManager" selected="Application.QuotientRemainder">
     <configuration name="HarmonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonicNumber" />
-      <module name="Assignment5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeadsTails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeadsTails" />
       <module name="Assignment5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,12 +59,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeFactors" />
+      <module name="Assignment5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuotientRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuotientRemainder" />
+      <module name="Assignment5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuotientRemainder" />
+        <item itemvalue="Application.PrimeFactors" />
         <item itemvalue="Application.HarmonicNumber" />
         <item itemvalue="Application.PowerOf2" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.HeadsTails" />
       </list>
     </recent_temporary>
   </component>
