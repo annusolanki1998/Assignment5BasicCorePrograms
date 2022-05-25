@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f7347ef-bf17-4b15-b5ed-0c5f1505a7c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f7347ef-bf17-4b15-b5ed-0c5f1505a7c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,16 +35,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.QuotientRemainder">
+  <component name="RunManager" selected="Application.SwapTwoNumbers">
     <configuration name="HarmonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonicNumber" />
-      <module name="Assignment5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
       <module name="Assignment5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapTwoNumbers" />
+      <module name="Assignment5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapTwoNumbers" />
         <item itemvalue="Application.QuotientRemainder" />
         <item itemvalue="Application.PrimeFactors" />
         <item itemvalue="Application.HarmonicNumber" />
         <item itemvalue="Application.PowerOf2" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
