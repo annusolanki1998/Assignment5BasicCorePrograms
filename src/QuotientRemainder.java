@@ -6,10 +6,10 @@ public class QuotientRemainder {
         float rem,quotient;
         Scanner s=new Scanner(System.in);
         System.out.println("Enter the number1");
-        num1=s.nextInt();
+        num1=s.nextFloat();
 
         System.out.println("Enter the number2");
-        num2=s.nextInt();
+        num2=s.nextFloat();
         rem=num1%num2;
         quotient=num1/num2;
         System.out.println("Remainder is "+rem);

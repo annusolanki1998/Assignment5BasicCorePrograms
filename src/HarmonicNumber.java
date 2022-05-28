@@ -9,13 +9,13 @@ public class HarmonicNumber {
         num=s.nextInt();
         if(num>0)
         {
-            for(float i=1;i<=num;i++)
+            for(float i=1; i<=num; i++)
             {
                 System.out.print(1+"/"+(int)i+"\t");
-                res+=1/i;
+                res += 1/i;
             }
             System.out.println();
-            System.out.println("result is "+res);
+            System.out.println("result is " +res);
         }
         else
             System.out.println("Enter valid number");
