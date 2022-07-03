@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5f7347ef-bf17-4b15-b5ed-0c5f1505a7c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HarmonicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarmonicNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowerOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuotientRemainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuotientRemainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwapTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VowelConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeFactors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PowerOf">
+  <component name="RunManager" selected="Application.PrimeFactors">
     <configuration name="HarmonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonicNumber" />
       <module name="Assignment5" />
@@ -83,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeFactors" />
+        <item itemvalue="Application.HarmonicNumber" />
         <item itemvalue="Application.PowerOf" />
         <item itemvalue="Application.SwapTwoNumbers" />
         <item itemvalue="Application.QuotientRemainder" />
-        <item itemvalue="Application.HarmonicNumber" />
-        <item itemvalue="Application.PrimeFactors" />
       </list>
     </recent_temporary>
   </component>
